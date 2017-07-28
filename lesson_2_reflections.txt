@@ -5,3 +5,8 @@ git creates a git folder that stores all your git metadata. You need to do if be
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is an in-between place that you put files in before you commit them. This allows you to choose which files you want to commit instead of commiting your entire working directory every time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can look at the differences between the staging area and the working directory and the last commit to make sure the changes
+only involve one logical change.
