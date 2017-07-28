@@ -19,3 +19,7 @@ that should be kept seperate from the main version of the program.
 How do the diagrams help you visualize the branch structure?
 
 Uhh by translating the branch structure into a visual format?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The changes made in each of the branches are smartly added together and can then be referred to with one branch.
