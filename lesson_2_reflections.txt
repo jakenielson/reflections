@@ -10,3 +10,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You can look at the differences between the staging area and the working directory and the last commit to make sure the changes
 only involve one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+You might want to add a branch when adding an experimental new feature or when creating a new version of the program
+that should be kept seperate from the main version of the program.
