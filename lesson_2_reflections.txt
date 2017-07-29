@@ -8,13 +8,11 @@ The staging area is an in-between place that you put files in before you commit 
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-You can look at the differences between the staging area and the working directory and the last commit to make sure the changes
-only involve one logical change.
+You can look at the differences between the staging area and the working directory and the last commit to make sure the changes only involve one logical change.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-You might want to add a branch when adding an experimental new feature or when creating a new version of the program
-that should be kept seperate from the main version of the program.
+You might want to add a branch when adding an experimental new feature or when creating a new version of the program that should be kept seperate from the main version of the program.
 
 How do the diagrams help you visualize the branch structure?
 
@@ -25,5 +23,5 @@ What is the result of merging two branches together? Why do we represent it in t
 The changes made in each of the branches are smartly added together and can then be referred to with one branch.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-Automatic merging is quick and easy, and if you do it right it makes it easy to collaborate. However,
-conflicts can sometimes arise and require manual merging.
+
+Automatic merging is quick and easy, and if you do it right it makes it easy to collaborate. However, conflicts can sometimes arise and require manual merging.

@@ -1,44 +1,29 @@
-How did viewing a diff between two versions of a file help you see the bug that
-was introduced?
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-    If a bug was introduced in a new version, it obviously has something to do
-with the part of the file that changed. By eliminating the parts of the file
-that didn't change, it's easier to locate the code that is causing the problem.
+    If a bug was introduced in a new version, it obviously has something to do with the part of the file that changed. By eliminating the parts of the file that didn't change, it's easier to locate the code that is causing the problem.
 
-How could having easy access to the entire history of a file make you a more
-efficient programmer in the long term?
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-    Sometimes people change their minds. Maybe you have an idea for a feature
-or another change, but once you see it implemented you don't like it anymore.
-Having access to the history of the file will make it easier to bring the file
-to the state it was in before the changes were made.
+    Sometimes people change their minds. Maybe you have an idea for a feature or another change, but once you see it implemented you don't like it anymore.Having access to the history of the file will make it easier to bring the file to the state it was in before the changes were made.
 
-What do you think are the pros and cons of manually choosing when to create a
-commit, like you do in Git, vs having versions automatically saved, like Google
-docs does?
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
     If versions are automatically saved, it may be difficult to identify a
-specific version that you want to go back to. If you manually choose when to
-create a commit, you only have to navigate the versions that you deem important.
+specific version that you want to go back to. If you manually choose when to create a commit, you only have to navigate the versions that you deem important.
 
-Why do you think some version control systems, like Git, allow saving multiple
-files in one commit, while others, like Google Docs, treat each file separately?
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
     It seems like adding a feature or making a major change would involve
-changing multiple files. It makes sense to group multiple files together if
-they were changed at the same time for the same reason.
+changing multiple files. It makes sense to group multiple files together if they were changed at the same time for the same reason.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Git log lets you view the entire history of commits for a repository. You
-can then grab the ID of these commits and use git diff to look at the changes.
+    Git log lets you view the entire history of commits for a repository. You can then grab the ID of these commits and use git diff to look at the changes.
 
-How might using version control make you more confident to make changes that
-could break something?
+How might using version control make you more confident to make changes that could break something?
 
     You can always go back to a previous version!
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I want to host a site on github so I can analyze its performance for the
-Front-End Development course.
+    I want to host a site on github so I can analyze its performance for the Front-End Development course.
