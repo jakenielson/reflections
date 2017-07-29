@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Well, I currently work on Udacity projects at home and at the office, so being able to access my repository from both locations is nice.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Maybe multiple people are working on the same repository at the same time. If Git stayed up to date automatically, it could mess with the people trying to work on the files.
