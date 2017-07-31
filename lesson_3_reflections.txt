@@ -17,3 +17,7 @@ You can work on your own branch and compare with git diff, knowing that you are 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I have no idea, GitHub is amazing. Before I was sending emails to myself like a barbarian. Now I feel like a file management wizard.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Whenever you're working collaboratively with other people, you should probably do work in your own branch. It's more work, but it ensures that you're not stepping on each others toes.
