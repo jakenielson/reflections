@@ -13,3 +13,7 @@ A fork is a copy of someone else's repository on GitHub. A clone is a copy of a 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work on your own branch and compare with git diff, knowing that you are accessing the most recent version of the program.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I have no idea, GitHub is amazing. Before I was sending emails to myself like a barbarian. Now I feel like a file management wizard.
